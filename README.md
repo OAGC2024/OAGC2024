@@ -16,8 +16,6 @@
 
 ## ♑ About me
 
-Biografía de [Tu Nombre]:
-
 Oscar Alberto Garizurieta es un apasionado educador y tecnólogo que actualmente se desempeña como docente en el Instituto Tecnológico de Cerro Azul, parte del Tecnológico Nacional de México. Graduado con distinción en el campo de la Ing.en Sistemas con una Maestria en Tecnologias de la Información, ha dedicado su carrera a impartir conocimientos en diversas áreas de la ingeniería, especialmente en Ingeniería en Sistemas Computacionales y Tecnologías de la Información.
 
 Con una profunda fascinación por la tecnología y los cambios que está experimentando la educación en este ámbito, Oscar Alberto Garizurieta Castillo se encuentra en la vanguardia de la integración de la tecnología educativa en su enseñanza. Su enfoque innovador y su compromiso con el aprendizaje continuo lo han convertido en un referente en su campo.
@@ -30,7 +28,6 @@ Oscar Alberto Garizurieta Castillo es un mentor dedicado que inspira a sus estud
 
 
 ![gari1](https://github.com/OAGC2024/OAGC2024/assets/163678907/d6560f1e-b28a-44ef-9adf-cca58fd2b3ee)
-
 
 <br/>
 
