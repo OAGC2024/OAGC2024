@@ -1,3 +1,4 @@
+![gari1](https://github.com/OAGC2024/OAGC2024/assets/163678907/d6560f1e-b28a-44ef-9adf-cca58fd2b3ee)
 <div align=center>
     <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
 </div>
@@ -26,8 +27,6 @@ Su interés particular se centra en el aprendizaje automático, el aprendizaje p
 
 Oscar Alberto Garizurieta Castillo es un mentor dedicado que inspira a sus estudiantes a alcanzar su máximo potencial en el campo de la informática. Su compromiso con la excelencia académica y su pasión por la tecnología lo hacen invaluable para la comunidad educativa y para aquellos que tienen el privilegio de ser sus estudiantes.
 
-
-![gari1](https://github.com/OAGC2024/OAGC2024/assets/163678907/d6560f1e-b28a-44ef-9adf-cca58fd2b3ee)
 
 <br/>
 
