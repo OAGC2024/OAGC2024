@@ -1,139 +1,152 @@
-<h1 align="center">Hi 👋, I'm Garizurieta</h1>
+<div align=center>
+    <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
+</div>
+<div align=center>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Hung+Pham;Open-source+enthusiast;Artificial+Intelligence+Student;I+use+Arch+btw" alt="Typing SVG" /></a>
+</div>
 
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
+<p align="center">
+	<a href="https://github.com/hungpham3112">
+		<img src="https://komarev.com/ghpvc/?username=hungpham3112&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+	</a>
+	<a href="https://github.com/hungpham3112">
+		<img src="https://img.shields.io/github/followers/hungpham3112?label=Followers" alt="followers"/>
+	</a>
+</p>
 
--------------------
-&emsp;
-<h3 align="left">Hi 👋, I'm Garizurieta, Site Reliability Engineer based in TecNm Instituto Tecnológico de Cerro Azul . I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
-&emsp;
+## ♑ About me
 
--------------------
-&emsp;
+- I'm currently a sophomore at FPT University located at Hanoi, Vietnam. I'm into the Julia programming language and on the way to study the foundations of machine learning with this language.
 
-- 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
-- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
+- On the daily basis, I try to sharpen my knowledge by reading books, technical blogs, references and scientific documents. Interested in machine learning, deep learning, and all the computer science terminology, especially applications of command line interface (CLI).
 
-- 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
+<br/>
 
-- 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
+## 🛠️ Tools
 
-&emsp;
+<p align=center>
+ <kbd>
+      <kbd>Operating Sytem</kbd>
+      <br>
+      <br>
+        <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
+        <a href="https://pop.system76.com/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Pop%21_OS_Icon.svg" /></a>
+        <a href="https://ubuntu.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></a>
+        <a href="https://archlinux.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" /></a>
+    </kbd>
+      <br>
+    <kbd>
+      <kbd>Programming and Markup Languages</kbd>
+      <br>
+      <br>
+        <a href="https://julialang.org" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" /></a>
+        <a href="https://www.python.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+        <a href="https://www.r-project.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
+        <a href="https://www.rust-lang.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" /></a>
+        <a href="https://www.cprogramming.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
+        <a href="https://www.lua.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" /></a>
+        <a href="https://html.com/html5/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> </a>
+        <a href="https://www.markdownguide.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></a>
+    </kbd>
+      <br>
+    <kbd>
+      <kbd>Data Science & AI</kbd>
+      <br>
+      <br>
+      <a href='https://www.tensorflow.org/' target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
+      <a href="https://fluxml.ai/" target="_blank"><img width="30px" src="https://avatars.githubusercontent.com/u/26222520?s=280&v=4" /></a>
+      <a href="https://numpy.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
+      <a href="https://pandas.pydata.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></a>
+      <a href="https://matplotlib.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /></a>
+      <a href="https://scikit-learn.org/stable/" target="_blank"><img width="30px" src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo.png" /></a>
+      <a href="https://opencv.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" /></a>
+    </kbd>
+    <kbd>
+      <kbd>Backend</kbd>
+      <br>
+      <br>
+        <a href="https://www.djangoproject.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /></a>
+    </kbd>
+    <kbd>
+      <kbd>Database</kbd>
+      <br>
+      <br>
+      <a href="https://www.mysql.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /></a>
+      <a href="https://www.postgresql.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></a>
+      <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /></a>
+    </kbd>
+      <br>
+    <kbd>
+      <kbd>System, Networking & Deployment</kbd>
+      <br>
+      <br>
+      <a href="https://www.heroku.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" /></a>
+      <a href="https://git-scm.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a>
+      <a href="https://www.docker.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
+      <a href="https://railway.app/" target="_blank"><img width="30px" src="https://railway.app/brand/logo-light.svg" /></a>
+    </kbd>
+    <kbd>
+      <kbd>Terminal Scripts</kbd>
+      <br>
+      <br>
+        <a href="https://www.gnu.org/software/bash/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /></a>
+        <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" /></a>
+    </kbd>
+    <kbd>
+      <kbd>Text editor, IDE, Notebook</kbd>
+      <br>
+      <br>
+      <a href="https://www.vim.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></a>
+      <a href="https://plutojl.org/" target="_blank"><img width="30px" src="https://juliacomputing.gallerycdn.vsassets.io/extensions/juliacomputing/pluto-vscode/0.1.2/1649235051665/Microsoft.VisualStudio.Services.Icons.Default" /></a>
+      <a href="https://jupyter.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></a>
+      <a href="https://code.visualstudio.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" /></a>
+      </kbd>
+</p>
 
-## Me around the web:
--------------------
+<br/>
 
+## 📈 Github Profile Stats
 
-&emsp;
-<a href="https://www.linkedin.com/in/berkeli/">
-    ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+<p align="center">
+    <a href="https://github.com/hungpham3112">
+        <img height="180em" src="https://streak-stats.demolab.com?user=hungpham3112&theme=tokyonight&hide_border=true&border_radius="/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hungpham3112&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungpham3112&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+    </a>
+</p>
+
+<br/>
+
+## 🏆 Github Profile Trophy
+
+<p align="left">
+    <a href="https://github.com/hungpham3112">
+        <img height="180em"
+        src="https://github-profile-trophy.vercel.app/?username=hungpham3112&theme=tokyonight&no-frame=true&margin-h=15&row=3&title=MultiLanguage,Joined2020,Issues,PullRequest,Commits,Repositories"/>
 </a>
-<a href="https://twitter.com/intent/follow?screen_name=halmyradov">
-    ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
-</a>
-<a href="https://www.instagram.com/halmyradov/">
-    ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
-</a>
-<a href="https://github.com/berkeli">
-    ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
-</a>
-<a href="https://stackoverflow.com/users/14958897/berkeli">
-    ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
-</a>
-<a href="https://www.codewars.com/users/BerkeliH">
-    ![CodeWars: BerkeliH](https://www.codewars.com/users/BerkeliH/badges/small)
-</a>
-<a href="https://www.leetcode.com/berkeli/">
-    ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
-</a>
-<a href="https://codepen.io/berkeli">
-    ![CodePen: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=CodePen)
-</a>
+</p>
 
-&emsp;
+## 📬 Contact me
 
-## 🛠️ My Skills
--------------------
-### Programming languages:
-&emsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
-![HCL](https://img.shields.io/badge/-HCL-000?&logo=HCL)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![APEX](https://img.shields.io/badge/-APEX-000?&logo=Salesforce)
-![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
-### Frontend development:
-&emsp;
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
-### Misc tools:
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+<p align=center>
+    <a href="https://github.com/hungpham3112" target="_blank">
+        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://linkedin.com/in/hungpham3112" target="_blank">
+        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.facebook.com/phamhung311202" target="_blank">
+        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/facebook.svg" alt=facebook style="margin-bottom: 5px;" />
+    </a>
+    <a href="mailto:phamhung20022015@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
+    </a>
+</p>
 
-### Services & Frameworks: 
-&emsp;
-![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
-![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
-![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
+---
 
-### Databases:
-&emsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
-
-### SRE & DevOps:
-&emsp;
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Consul](https://img.shields.io/badge/-Consul-000?&logo=Consul)
-![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
-![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
-![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
-
-
-&emsp;
-
-## 📈 My GitHub Stats and Activity
-
-### 💻 Profile Stats
-
-<img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=berkeli&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-
-
-### 🔥 Streak Stats
-
-![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=berkeli&theme=tokyonight)
-
-### 📊 Contribution Stats
-
-<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=berkeli&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
-------
-Credit: [Berkeli](https://github.com/Berkeli)
-Last Edited on: 02/01/2023
+Credit: [hungpham3112](https://github.com/hungpham3112)
+Last edited on: 28/08/2023
