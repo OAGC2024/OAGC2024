@@ -1,4 +1,5 @@
-![gari1](https://github.com/OAGC2024/OAGC2024/assets/163678907/d6560f1e-b28a-44ef-9adf-cca58fd2b3ee)
+![github](https://github.com/OAGC2024/OAGC2024/assets/163678907/84bd034b-9a82-47d3-a6ec-51b20037454f)
+
 <div align=center>
     <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
 </div>
