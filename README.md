@@ -16,9 +16,21 @@
 
 ## ♑ About me
 
-- I'm currently a sophomore at FPT University located at Hanoi, Vietnam. I'm into the Julia programming language and on the way to study the foundations of machine learning with this language.
+Biografía de [Tu Nombre]:
 
-- On the daily basis, I try to sharpen my knowledge by reading books, technical blogs, references and scientific documents. Interested in machine learning, deep learning, and all the computer science terminology, especially applications of command line interface (CLI).
+Oscar Alberto Garizurieta es un apasionado educador y tecnólogo que actualmente se desempeña como docente en el Instituto Tecnológico de Cerro Azul, parte del Tecnológico Nacional de México. Graduado con distinción en el campo de la Ing.en Sistemas con una Maestria en Tecnologias de la Información, ha dedicado su carrera a impartir conocimientos en diversas áreas de la ingeniería, especialmente en Ingeniería en Sistemas Computacionales y Tecnologías de la Información.
+
+Con una profunda fascinación por la tecnología y los cambios que está experimentando la educación en este ámbito, Oscar Alberto Garizurieta Castillo se encuentra en la vanguardia de la integración de la tecnología educativa en su enseñanza. Su enfoque innovador y su compromiso con el aprendizaje continuo lo han convertido en un referente en su campo.
+
+Cada día, se esfuerza por expandir sus conocimientos y mantenerse al tanto de los últimos avances en tecnología educativa y computación. Ya sea a través de la lectura de libros especializados, blogs técnicos o la revisión de documentos científicos, busca mantenerse actualizado y preparado para brindar a sus estudiantes una educación de calidad.
+
+Su interés particular se centra en el aprendizaje automático, el aprendizaje profundo y la aplicación de la interfaz de línea de comandos (CLI). Estos temas no solo son áreas de investigación para él, sino también pilares fundamentales en su enseñanza, ya que cree firmemente en la importancia de preparar a sus alumnos para enfrentar los desafíos tecnológicos del mundo real.
+
+Oscar Alberto Garizurieta Castillo es un mentor dedicado que inspira a sus estudiantes a alcanzar su máximo potencial en el campo de la informática. Su compromiso con la excelencia académica y su pasión por la tecnología lo hacen invaluable para la comunidad educativa y para aquellos que tienen el privilegio de ser sus estudiantes.
+
+
+![gari1](https://github.com/OAGC2024/OAGC2024/assets/163678907/d6560f1e-b28a-44ef-9adf-cca58fd2b3ee)
+
 
 <br/>
 
